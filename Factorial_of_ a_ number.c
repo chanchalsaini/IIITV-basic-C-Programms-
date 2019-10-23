@@ -8,5 +8,5 @@ void main()
     {
      factorial=factorial*i;
     }
-     printf("%d!=%d\n,num,factorial");
+     printf("%d",factorial");
  }
